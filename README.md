@@ -24,7 +24,7 @@ A way to practice Javascript with a Cookie Recipe
 
 ## Known Bugs
 
-* 
+* Cannot push
 
 
 ## License
